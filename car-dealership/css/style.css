@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box ;
+}
+.herosection{
+    background-color: rgb(10,49,97);
+    display: flex;
+    align-items: center;
+}
+.jil li{
+    list-style: none;
+    display: inline;
+    padding-left: 20px;
+}
+.tyl{
+    background-image: url(../img/slide-img2_dbf26061-b4c7-416b-ba0e-48c34b485a4b.jpg); width: 100%; height: 500px;
+    background-repeat: no-repeat;
+}
+body{
+    color: white;
+}
+.fer{
+    font-size: 35px;
+    padding-top: 150px;
+    padding-left: 150px;
+}
+.gel p{
+    padding-left: 120px;
+}
+.sad{
+    margin-left: 170px;
+}
+.sad button{
+    background-color: rgb(179,25,66);
+}
+.sad button a{
+    text-decoration: none;
+    font-size: larger;
+    color: #FFFFFF;
+}
+.weq{
+    background-color: #FFFFFF;
+    color: black;
+}
+.card{
+    width: 18rem;
+    margin: 20px;
+}
+h1{
+    font-size: 40px;
+}.card2{
+    width: 18rem;
+    margin: 20px;
+}
+.card3{
+    width: 18rem;
+    margin: 20px;
+}
+.sdc{
+    display: flex;
+    align-items: start;
+}
+.card4{
+    width: 18rem;
+    margin: 20px;
+}
+.tyu{
+    width: 18rem;
+}
+.poi{
+    width: 18rem;
+}
+h1{
+    font-size: xx-large;
+}
+.caso{
+    width: 18rem
+}
+.caty{
+    width: 18rem;
+}
+.til{
+    display: flex;
+    align-items: start;
+    padding-left: 80px;
+    padding-right: 20px;
+}
+.ca89{
+    width: 18rem;
+}
+.wqs{
+    width: 18rem
+}
+.thy{
+    display: flex;
+    align-items: start;
+    padding-left: 65px;
+}
+.ctyu{
+    width: 18rem
+}
+.liu{
+    width: 18rem
+}
+.gyh button a{
+    background-color: #121212;
+    color: white;
+    text-decoration: none;
+
+}
+.gyh{ 
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.gyh button{
+    background-color: black;
+    border: none;
+    outline: none;
+    font-size: larger;
+}
