@@ -121,3 +121,37 @@ h1{
     outline: none;
     font-size: larger;
 }
+.h1{
+    font-size: x-large;
+}
+.text{
+   margin-top: 40px; 
+}
+.box1{
+    background-color: #F6F6F6;
+    align-items: center;
+    margin-left: 20px;
+    width: 200px;
+}
+.line1{
+    display: flex;
+}
+.text p{
+    align-items: center;
+}
+.text2{
+    margin-top: 40px; 
+ }
+ .box2{
+     background-color: #F6F6F6;
+     align-items: center;
+     margin-left: 20px;
+     width: 200px;
+ }
+ .line2{
+     display: flex;
+     margin-top: 20px;
+ }
+ .text2 p{
+     align-items: center;
+ }
